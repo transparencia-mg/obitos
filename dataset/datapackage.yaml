@@ -1,0 +1,28 @@
+name: obitos
+owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
+profile: data-package
+resources:
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: obitos-2025
+    path: data/obitos-2025.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: unidade
+          type: string
+        - name: ano
+          type: integer
+        - name: mes
+          type: integer
+        - name: obito_hospitalar
+          type: integer
+        - name: obito_institucional
+          type: integer
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+title: Obitos
