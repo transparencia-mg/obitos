@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.019,
+  "time": 0.022,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados de óbito hospitalar e óbito institucional por unidade Fhemig a partir de 2025.",
+        "description": "Dados de óbito hospitalar e óbito institucional por unidade FHEMIG a partir de 2025.",
         "dialect": {
           "delimiter": ";"
         },
@@ -53,7 +53,7 @@
           "rows": 153
         }
       },
-      "time": 0.011,
+      "time": 0.013,
       "scope": [
         "hash-count-error",
         "byte-count-error",
