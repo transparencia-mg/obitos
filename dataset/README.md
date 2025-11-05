@@ -1,4 +1,4 @@
-Conjunto de dados referentes às unidades de medida que representam a contegem de óbito hospitalares e o óbitos institucionais no período.
+Conjunto de dados referentes às unidades de medida que representam a contagem de óbito hospitalares e o óbitos institucionais no período.
 
 Óbito hospitalar: É aquele que ocorre após o paciente ter dado entrada no hospital, independente do fato dos procedimentos administrativos relacionados à internação já terem sido realizados ou não.
 Notas técnicas: os óbitos de pessoas que chegam mortas ao hospital não são considerados óbitos hospitalares.
@@ -30,3 +30,4 @@ Além disso, fique a vontade para utilizar os demais canais oficiais de atendime
 - [Manifestações de Ouvidoria](https://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões.
 - [Pedido de Acesso à Informação](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 - [Pedido de abertura de bases de dados](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Solicitação de abertura de bases de dados dos órgãos e entidades que não estejam publicamente disponíveis....
+
