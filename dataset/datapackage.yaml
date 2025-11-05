@@ -2,7 +2,7 @@ name: obitos
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de óbito hospitalar e óbito institucional por unidade Fhemig a partir de 2025.
+  - description: Dados de óbito hospitalar e óbito institucional por unidade FHEMIG a partir de 2025.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -30,4 +30,4 @@ resources:
           description: "Óbito institucional (ocorre após decorridas pelo menos 24 horas do início da admissão hospitalar do paciente, excluindo os óbitos ocorridos nas primeiras 24 horas de internação hospitalar)."
     scheme: file
     title: Óbitos hospitalares e institucionais a partir de 2025
-title: Obitos
+title: Óbitos Hospitalares e Institucionais
